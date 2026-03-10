@@ -140,10 +140,35 @@ Metrics:
 
 ---
 
-# 📐 DAX Measures Used
+#🎨 Dashboard Features
 
-Below are the main DAX measures used in this project.
+-Interactive filters for Payment Method & Auto Renewal
+-Dark themed modern UI
+-Multiple visuals including:
+-Bar Charts
+-Pie Charts
+-Line Charts
+-KPI Cards
+-Comparison Tables
 
-### Total Users
-```DAX
-Total Users = COUNT('Customer Data'[User ID])
+# 🛠 Tools & Technologies Used
+
+-Power BI Desktop
+-Power Query
+-DAX (Data Analysis Expressions)
+-Data Modeling
+-Data Visualization
+
+# 📁 Repository Contents
+Customer-Churn-Analysis-Dashboard
+│
+├── Customer_Churn_Dashboard.pbix
+├── dataset.csv
+├── dashboard.png
+└── README.md
+
+# 🚀 How to Use
+
+- Download the .pbix file from the repository
+- Open it using Power BI Desktop
+- Explore the interactive dashboard and filters
